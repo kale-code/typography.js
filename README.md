@@ -28,6 +28,7 @@ elements.
 Typography.js makes it easy to create designs that are unique, personal, and
 custom to your project.
 
+
 ## Themes & Plugins
 - **themes**: Typography.js themes are simple Javascript objects. As
   such they're easy to share across projects or even
